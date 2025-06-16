@@ -21,6 +21,6 @@ This course is part of the **Machine Learning Specialization** and introduces th
 - Evaluated model performance using appropriate metrics.
 - Developed intuition for bias-variance tradeoffs.
 
-## 👨‍🏫 Credits
+## 👨‍🏫 Instructor
 
-Instructor: Andrew Ng
+**Andrew Ng**
